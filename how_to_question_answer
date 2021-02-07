@@ -1,0 +1,25 @@
+Det finns flera sätt att skriva flashcards. För att skapa enhetliga och lättillgängliga flashcards kommer vi i denna repository att följa ett par regler som är inspirerade av Michael Nielsens artikel [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html).
+
+## Rules
+
+1. Är faktan värd 10 minuter av tid i framtiden? Skapa ett flashcard för den.
+2. Är faktan slående? Skapa ett flashcard för den.
+
+## Structure
+
+- Gör frågorna och svaren så atomiska som möjligt: det betyder att både frågan och svaret ska uttrycka en idé.
+
+Ett exempel på detta är:
+- "Hur är vägnätet i kommunen indelat?"
+  - "Kommunala gator, statliga vägar och enskilda vägar"
+
+Michael Nielsen skriver såhär i [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html):
+"
+I entered the question: “How to create a soft link from linkname to filename?” The answer was: “ln -s filename linkname”. Unfortunately, I routinely got this question wrong.
+
+The solution was to refactor the question by breaking it into two pieces. One piece was: “What's the basic command and option to create a Unix soft link?” Answer: “ln -s …”. And the second piece was: “When creating a Unix soft link, in what order do linkname and filename go?” Answer: “filename linkname”.
+"
+
+## Resource
+
+[Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
